@@ -1,0 +1,18 @@
+HSV THRESHOLDING PARAMETERS:
+Low_H = 0
+Low_S = 0
+Low_V = 1
+High_H = 116
+High_S = 255
+High_V = 255
+SOBEL PARAMETERS:
+Kernel_size = 15
+MORPH PARAMETERS:
+Kernel_size = 3
+CANNY THRESHOLD PARAMETERS:
+Threshold = 11
+Ratio = 2
+Kernel_size = 3
+CONTOUR RECTANGLE PARAMETERS:
+Height = 65
+Width = 197
